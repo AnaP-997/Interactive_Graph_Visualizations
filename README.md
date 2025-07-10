@@ -18,7 +18,7 @@ This project examines Netflix movie and TV show data to identify viewing trends 
 2. Install the required libraries:
    ```bash
    pip install pandas plotly jupyter
-Open netflix_trnds_analysis.ipynb in Jupyter Notebook
+Open netflix_trends_analysis.ipynb in Jupyter Notebook
 
 Run the cells sequentially to reproduce the analysis and visualizations
 
